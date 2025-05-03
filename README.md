@@ -1,6 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/sXSHXcrK/Screenshot-80.png" alt="banner" />
+  <img src="https://i.postimg.cc/m2q9XGMz/Screenshot-80.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Md. Shariful Islam 👋</h1>
