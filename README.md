@@ -1,6 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/dV2dkVrP/banner.jpg" alt="banner" />
+  <img src="https://i.postimg.cc/yxcDfSTd/programmer-people-working-laptops-smartphones-600nw-2473384115.webp" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Md. Shariful Islam 👋</h1>
