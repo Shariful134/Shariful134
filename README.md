@@ -26,6 +26,7 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 
 - 📧 **Email**: [shariful32213@gmail.com](mailto:shariful32213@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/md-shariful-/](https://www.linkedin.com/in/md-shariful-/)
+- 📱 **WhatsApp**: [01762370111](https://wa.me/8801762370111)
 
 ---
 
@@ -52,7 +53,9 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 ### 🟩 Daily Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shariful134&hide_border=true&card_width=1280&card_height=360" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shariful134&hide_border=true&theme=tokyonight" />
+
 </p>
 
 ### 📊 GitHub Stats
