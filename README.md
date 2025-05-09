@@ -16,7 +16,9 @@
 I'm a Front-End Developer with expertise in **HTML, CSS, JavaScript, TypeScript, React.js, Redux and Next.js**.  
 I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose** for backend development.
 
-🎓 I’m currently studying Computer Science & Engineering at **Kurigram Polytechnic Institute** (2022–Present).  
+🎓 I’ve completed my Textile Diploma from **Barishal Textile Institute** (2021–2025), after finishing HSC in 2021.  
+📘 Currently, I'm preparing for IELTS at **Bornil Academy** to enhance my international communication skills.
+ 
 💡 I specialize in building responsive and user-friendly web apps that solve real-world problems.  
 📚 I believe in continuous learning and love contributing to open-source and team projects.
 
@@ -53,10 +55,11 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 ### 🟩 Daily Streak
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shariful134&hide_border=true&theme=tokyonight" />
 
 </p>
+
+
 
 ### 📊 GitHub Stats
 
@@ -77,7 +80,20 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 - 🛡️ Role-Based Auth  
 - 🔧 Tech: React, Node.js, MongoDB
 
-### 🔹 [Blogify 📝]([https://github.com/Shariful134/Assignment-3-PH-Blog])
+### 🔹 [BookNest 🎓]([  https://job-placement-client-3.vercel.app/])
+> Book store API with stock management and revenue tracking.
+
+- 🛡️ Admin Email: shariful@gmail.com  
+- 🛡️ Admin Pass : Shariful!23
+  
+- 🛡️ User Email: shawon@gmail.com  
+- 🛡️ Admin Pass : Shawon!23  
+- 📦 Book & Order CRUD  
+- 💰 Revenue Report  
+- 🔐 Auth Protected  
+- 🔧 Tech: Node.js, Express, Mongoose
+
+### 🔹 [Blogify 📝]([  https://github.com/Shariful134/Assignment-3-PH-Blog])
 > A blog management backend system with full role-based control.
 1.Admin Email: Shariful324@gmail.com
 2.Admin Password: Shariful02#J%
@@ -86,13 +102,8 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 - 🔐 JWT Auth  
 - 🔧 Tech: TypeScript, Express, MongoDB
 
-### 🔹  [BookNest 🎓]([ https://book-shop-client-theta.vercel.app/])
-> Book store API with stock management and revenue tracking.
 
-- 📦 Book & Order CRUD  
-- 💰 Revenue Report  
-- 🔐 Auth Protected  
-- 🔧 Tech: Node.js, Express, Mongoose
+
 
 ---
 
@@ -107,7 +118,7 @@ Each project includes a complete `README.md` file with:
 - ✅ Live demo (if available)
 
 ###TutorLink Readme file([https://github.com/Shariful134/portfolio-tutorlink-client])
-###BookNest Readme file([ https://book-shop-client-theta.vercel.app/])
+###BookNest Readme file([https://github.com/Shariful134/job-placement-client-3])
 ###BlogyFy Readme file([https://github.com/Shariful134/Assignment-3-PH-Blog])
 ---
 
