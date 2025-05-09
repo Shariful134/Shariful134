@@ -13,7 +13,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a Front-End Developer with expertise in **HTML, CSS, JavaScript, TypeScript, React.js, and Next.js**.  
+I'm a Front-End Developer with expertise in **HTML, CSS, JavaScript, TypeScript, React.js, Redux and Next.js**.  
 I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose** for backend development.
 
 🎓 I’m currently studying Computer Science & Engineering at **Kurigram Polytechnic Institute** (2022–Present).  
