@@ -76,55 +76,14 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 
 ## 📌 Pinned Projects
 
-### 🔹 [TutorLink 🎓]([  https://tutorlink-client-side.vercel.app/])
-> A platform where students can find tutors, book sessions, and manage their learning.
+### 🔹 [TutorLink 🎓]([https://tutorlink-client-side.vercel.app/])
+- Readme file: https://github.com/Shariful134/portfolio-tutorlink-client
 
-- 🧑‍🏫 Student & Tutor Dashboards  
-- 📅 Booking & Availability  
-- 💵 SSLCommerz Integration  
-- 🛡️ Role-Based Auth  
-- 🔧 Tech: React, Node.js, MongoDB
+### 🔹 [BookShop 🎓]([https://job-placement-client-3.vercel.app/])
+- readme file: https://github.com/Shariful134/job-placement-client-3
 
-### 🔹 [BookNest 🎓]([  https://job-placement-client-3.vercel.app/])
-> Book store API with stock management and revenue tracking.
-
-- 🛡️ Admin Email: shariful@gmail.com  
-- 🛡️ Admin Pass : Shariful!23
-  
-- 🛡️ User Email: shawon@gmail.com  
-- 🛡️ Admin Pass : Shawon!23  
-- 📦 Book & Order CRUD  
-- 💰 Revenue Report  
-- 🔐 Auth Protected  
-- 🔧 Tech: Node.js, Express, Mongoose
-
-### 🔹 [Blogify 📝]([  https://github.com/Shariful134/Assignment-3-PH-Blog])
-> A blog management backend system with full role-based control.
-1.Admin Email: Shariful324@gmail.com
-2.Admin Password: Shariful02#J%
-- 📝 CRUD for Blogs  
-- 👥 Admin/User Roles  
-- 🔐 JWT Auth  
-- 🔧 Tech: TypeScript, Express, MongoDB
-
-
-
-
----
-
-## 📘 Project READMEs
-
-Each project includes a complete `README.md` file with:
-
-- ✅ Project summary  
-- ✅ Features  
-- ✅ Technologies used  
-- ✅ Setup instructions  
-- ✅ Live demo (if available)
-
-###TutorLink Readme file([https://github.com/Shariful134/portfolio-tutorlink-client])
-###BookNest Readme file([https://github.com/Shariful134/job-placement-client-3])
-###BlogyFy Readme file([https://github.com/Shariful134/Assignment-3-PH-Blog])
+### 🔹 [Blogify 📝]([complete-assignment-3-blog-ph.vercel.app])
+- Readme file: https://github.com/Shariful134/Assignment-3-PH-Blog
 ---
 
 ## 🙌 Let’s Connect!
