@@ -78,7 +78,7 @@ I also have hands-on experience in **Node.js, Express.js, MongoDB, and Mongoose*
 
 ### 🔹 [TutorLink 🎓]([https://tutorlink-client-side.vercel.app/])
 - Live Link: https://job-placement-tutorlink-client.vercel.app/
-- Readme file: https://github.com/Shariful134/portfolio-tutorlink-client
+- Readme file: https://github.com/Shariful134/job-placement-tutorlink-client
 
 ### 🔹 [BookShop 🎓]([https://job-placement-client-3.vercel.app/])
 - Live Link: https://job-placement-client-3.vercel.app/
